@@ -1,17 +1,15 @@
 UNDER CONSTRUCTION
 
-Content will follow soon. Not yet complete.
+This step files shall be incorporated or added into the global libraries:
 
-global libraries:
+/usr/share/kicad/3dmodels/Relay_SMD.3dshapes
 
-/usr/share/kicad/3dmodels/Relay_SMD.3d_shapes
+/usr/share/kicad/3dmodels/Relay_THT.3dshapes
 
-/usr/share/kicad/3dmodels/Relay_THT.3d_shapes
+or into the more privately libraries:
 
-private libraries:
+/usr/share/kicad/3dmodels/myRelay_SMD.3dshapes
 
-/usr/share/kicad/3dmodels/myRelay_SMD.3d_shapes
+/usr/share/kicad/3dmodels/myRelay_THT.3dshapes
 
-/usr/share/kicad/3dmodels/myRelay_THT.3d_shapes
-
--> will be completed very soon.
+Have fun.
